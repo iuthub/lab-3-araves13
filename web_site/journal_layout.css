@@ -1,0 +1,31 @@
+div#wrapper{
+	border:10px white solid;
+	background-color: white;
+	margin: 10px 10%;
+}
+div#header{
+background-color: #A8F0F0; 
+text-align: right;
+
+
+}
+div#header h2{
+	font-size: 14pt;
+}
+div.article{
+	overflow: hidden;
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding:5px;
+	margin-top: 10px;
+}
+span.date{
+border-bottom: 2px blue dashed;
+}
+body{
+	background-image: url("images/bckgr.jpeg");
+}
+.article img{
+float: right;
+
+}
